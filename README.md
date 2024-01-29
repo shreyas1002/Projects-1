@@ -1,31 +1,33 @@
 Smart Contact Manager Outputs:
 
-![Screenshot (4)](https://github.com/Shreyas191/Projects-and-Codes/assets/71380715/b8bdfa1a-96eb-44fa-8d05-0cd8c9b1566f)
+![Screenshot (4)](https://github.com/shreyas1002/Projects-1/assets/158080379/169d3535-3808-4d9f-935a-209c2801b5b4)
 
-<img width="960" alt="Screenshot 2024-01-29 203200" src="https://github.com/Shreyas191/Projects-and-Codes/assets/71380715/f1d5636c-6c23-416d-a7f7-1434160c72fa">
+<img width="960" alt="Screenshot 2024-01-29 203200" src="https://github.com/shreyas1002/Projects-1/assets/158080379/3ec6a24a-4a9d-4aae-ab0e-6b7f86d3b371">
 
-![Screenshot (6)](https://github.com/Shreyas191/Projects-and-Codes/assets/71380715/a76c8fe0-9005-44a7-867e-fd9bd2a87a8b)
+![Screenshot (6)](https://github.com/shreyas1002/Projects-1/assets/158080379/c9506d95-bab5-4c23-9eed-f1444a89c36c)
 
-![Screenshot (7)](https://github.com/Shreyas191/Projects-and-Codes/assets/71380715/e22b930a-305b-45da-974f-6ae13035202d)
+![Screenshot (7)](https://github.com/shreyas1002/Projects-1/assets/158080379/11e5576e-3057-41ce-b9b1-1e1304ed8c16)
 
-![Screenshot (8)](https://github.com/Shreyas191/Projects-and-Codes/assets/71380715/c7dcf55e-53cd-47f0-bdb3-97d07fe8de98)
+![Screenshot (8)](https://github.com/shreyas1002/Projects-1/assets/158080379/5ce6f4a0-2836-4f61-8aa6-241d85fc54c7)
 
-![Screenshot (9)](https://github.com/Shreyas191/Projects-and-Codes/assets/71380715/fe01c169-0180-413b-8c16-b1deadc468e4)
+![Screenshot (9)](https://github.com/shreyas1002/Projects-1/assets/158080379/621f52f6-0dd7-4bf3-90e7-be43ccf0d785)
 
-![Screenshot (10)](https://github.com/Shreyas191/Projects-and-Codes/assets/71380715/2dc941a4-46a9-4643-a1d8-e48c457edba4)
+![Screenshot (10)](https://github.com/shreyas1002/Projects-1/assets/158080379/c67db1ee-6ca6-4ac5-a277-352da493d400)
 
-![Screenshot (11)](https://github.com/Shreyas191/Projects-and-Codes/assets/71380715/8a4ed7e1-0b72-42ce-ae0a-59835f471b2c)
+![Screenshot (11)](https://github.com/shreyas1002/Projects-1/assets/158080379/f3281d3b-2bee-49da-8a00-dc5423d14f01)
+
 
 Smart Irrigation and Worm Detection Ouptuts
 
-![O1](https://github.com/Shreyas191/Projects-and-Codes/assets/71380715/be85a592-4609-4983-a294-a5c59351993d)
+![O2](https://github.com/shreyas1002/Projects-1/assets/158080379/bce35eb5-7b33-4069-bc73-311941a34624)
 
-![O6](https://github.com/Shreyas191/Projects-and-Codes/assets/71380715/106ff96e-f59a-4211-9d03-08f56d80851f)
+![O1](https://github.com/shreyas1002/Projects-1/assets/158080379/4f2f6c7b-7149-4b56-9494-9ca398ea74ab)
 
-![O5](https://github.com/Shreyas191/Projects-and-Codes/assets/71380715/e85d4936-d1bc-4d2f-bed0-c622e45a848a)
+![O6](https://github.com/shreyas1002/Projects-1/assets/158080379/e3e2cf42-dee1-4910-89cb-b0fe0026efcf)
 
-![O4](https://github.com/Shreyas191/Projects-and-Codes/assets/71380715/800a6471-1830-43b8-88c9-714593f26d34)
+![O5](https://github.com/shreyas1002/Projects-1/assets/158080379/910dd9df-7fe7-4dbd-99eb-eba4f956b943)
 
-![O3](https://github.com/Shreyas191/Projects-and-Codes/assets/71380715/c8f57f09-629e-408c-a1fe-152d06e1edc8)
+![O4](https://github.com/shreyas1002/Projects-1/assets/158080379/fb64ab6e-e3e5-47bd-8ed3-05a35d7e9b09)
 
-![O2](https://github.com/Shreyas191/Projects-and-Codes/assets/71380715/1aad13eb-c7dc-4363-be63-73a18d81bfd2)
+![O3](https://github.com/shreyas1002/Projects-1/assets/158080379/e143ff0a-fd46-45bd-8bb2-e86e23d2ad85)
+
